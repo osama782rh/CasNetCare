@@ -1,0 +1,6 @@
+C:\Users\Philippe\source\repos\csharp-slam4\tpNetCar\bin\Debug\tpNetCar.exe.config
+C:\Users\Philippe\source\repos\csharp-slam4\tpNetCar\bin\Debug\tpNetCar.exe
+C:\Users\Philippe\source\repos\csharp-slam4\tpNetCar\bin\Debug\tpNetCar.pdb
+C:\Users\Philippe\source\repos\csharp-slam4\tpNetCar\obj\Debug\tpNetCar.csprojAssemblyReference.cache
+C:\Users\Philippe\source\repos\csharp-slam4\tpNetCar\obj\Debug\tpNetCar.exe
+C:\Users\Philippe\source\repos\csharp-slam4\tpNetCar\obj\Debug\tpNetCar.pdb
